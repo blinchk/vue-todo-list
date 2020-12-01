@@ -1,4 +1,5 @@
-# todo-list
+# TO-DO List
+My first project on Vue.js, that contains TO-DO list with routing.
 
 ## Project setup
 ```
